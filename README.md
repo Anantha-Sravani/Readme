@@ -9,6 +9,7 @@
 
 - 📍 **AUTOMATION TESTING**
 - 📍 **FULL STACK**
+- 📍 **APPIUM**
 
 
 
