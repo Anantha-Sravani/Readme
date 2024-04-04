@@ -29,6 +29,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Anantha-Sravani]
 
-- 💬 Ask me about **Selenium, Appium,Manual,html,css,javaScript,sql**
+- 💬 Ask me about **Selenium, Appium, Manual, html, css, javaScript, sql**
 
 - 📫 How to reach me **sravsanantha7@gmail.com**
